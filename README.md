@@ -41,13 +41,13 @@ The script assumes that the provided dataset has been downloaded and unzipped in
 
 After checking the prerequisites, you can either run the script by downloading and sourcing it:
 
-        download.file(url="https://github.com/AnonDataSciStudent/GettingCleaningDataCourseProject/blob/master/run_analysis.R", destfile="run_analysis.R")
+        download.file(url="https://raw.githubusercontent.com/AnonDataSciStudent/GettingCleaningDataCourseProject/master/run_analysis.R", destfile="run_analysis.R")
 
         source(file="run_analysis.R")
 
 or by sourcing it directly:
 
-        source(file="https://github.com/AnonDataSciStudent/GettingCleaningDataCourseProject/blob/master/run_analysis.R")
+        source(file="https://raw.githubusercontent.com/AnonDataSciStudent/GettingCleaningDataCourseProject/master/run_analysis.R")
 
 ### Summary Choices and Transformations
 
